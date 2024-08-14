@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @breannahumphres
 - 👀 I’m interested in gaming, trying new food, scrolling on tiktok for hours, spending time with my fiance and pets
-- 🌱 I’m currently learning software engineering with Fullstack Academy
+- 🌱 I’m currently learning software engineering with Flatiron School. I'll graduate November of 2024
 - 📫 How to reach me: breannahumphres@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 991 hours in Overwatch <3
