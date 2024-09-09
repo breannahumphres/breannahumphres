@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering with Flatiron School. I'll graduate November of 2024
 - 📫 How to reach me: breannahumphres@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have 991 hours in Overwatch <3
+- ⚡ Fun fact: I have over 1000 hours in Overwatch <3
 
 
 <!---
